@@ -105,7 +105,7 @@ useEffect(() => {
                       opts={{
                         width: "100%",
                         height: "100%",
-                        playerVans: {
+                        playerVars: {
                           autoplay: 1,
                           controls: 0,
                           cc_load_policy: 0,
